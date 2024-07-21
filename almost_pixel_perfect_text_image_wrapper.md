@@ -2,12 +2,24 @@
 
 ```html
 <div class="a_bit_about_me_wrapper">
+    <img class="a_bit_about_me_image" src="https://benaharoni.com/sites/default/files/inline-images/ben_aharoni_modern_hebrew_tutor_1_0_0.jpg" data-align="center" alt="בן אהרוני">
     <div class="a_bit_about_me_text">
         <p>
-            <strong>a</strong>
+            <strong>שלום ונעים מאד.</strong>
+        </p>
+        <p>
+            <strong>שמי בן אהרוני.&nbsp;</strong>
+        </p>
+        <p>
+            <strong>אני איש שיווק באינטרנט מומחה קידום אורגני.&nbsp;</strong>
+        </p>
+        <p>
+            <strong>אני מורה לשפות אנגלית ותאית.&nbsp;</strong>
+        </p>
+        <p>
+            <strong>אני מייעץ בתחום רילוקשיין לדרום מזרח אסיה.</strong>
         </p>
     </div>
-    <img class="a_bit_about_me_image" src="a.jpg" data-align="center" alt=a">
 </div>
 ````
 
