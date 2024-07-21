@@ -14,7 +14,6 @@
 ## CSS
 
 ```css
-```css
 .a_bit_about_me_wrapper {
 	display: block;
 	box-sizing: border-box;
