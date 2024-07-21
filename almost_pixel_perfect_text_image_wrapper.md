@@ -9,6 +9,7 @@
     </div>
     <img class="a_bit_about_me_image" src="a.jpg" data-align="center" alt=a">
 </div>
+````
 
 ## CSS
 
