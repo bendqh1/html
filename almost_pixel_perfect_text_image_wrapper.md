@@ -2,7 +2,7 @@
 
 ```html
 <div class="a_bit_about_me_wrapper">
-    <img class="a_bit_about_me_image" src="https://benaharoni.com/sites/default/files/inline-images/ben_aharoni_modern_hebrew_tutor_1_0_0.jpg" data-align="center" alt="בן אהרוני">
+    <img src="https://benaharoni.com/sites/default/files/inline-images/ben_aharoni_modern_hebrew_tutor_1_0_0.jpg" class="a_bit_about_me_image" alt="בן אהרוני">
     <div class="a_bit_about_me_text">
         <p>
             <strong>שלום ונעים מאד.</strong>
