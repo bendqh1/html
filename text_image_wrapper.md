@@ -6,7 +6,7 @@
     <div class="a_bit_about_me_text">
         <p>
             <strong>שלום ונעים מאד.</strong><br>
-            <strong>שמי בן אהרוני.</strong><br>
+            <strong>שמי בן אהרוני.</strong>
         </p>
         <p>
             <strong>אני איש שיווק באינטרנט מומחה קידום אורגני.&nbsp;</strong>
