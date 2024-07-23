@@ -5,19 +5,20 @@
     <img src="https://benaharoni.com/sites/default/files/inline-images/ben_aharoni_modern_hebrew_tutor_1_0_0.jpg" class="a_bit_about_me_image" alt="בן אהרוני">
     <div class="a_bit_about_me_text">
         <p>
-            <strong>שלום ונעים מאד.</strong>
-        </p>
-        <p>
-            <strong>שמי בן אהרוני.&nbsp;</strong>
+            <strong>שלום ונעים מאד.</strong><br>
+            <strong>שמי בן אהרוני.</strong><br>
         </p>
         <p>
             <strong>אני איש שיווק באינטרנט מומחה קידום אורגני.&nbsp;</strong>
         </p>
         <p>
+            <strong>אני נטורופת מומחה לפסוריאזיס.&nbsp;</strong>
+        </p>
+        <p>
             <strong>אני מורה לשפות אנגלית ותאית.&nbsp;</strong>
         </p>
         <p>
-            <strong>אני מייעץ בתחום רילוקשיין לדרום מזרח אסיה.</strong>
+            <strong>אני יועץ רילוקיישן לדרום מזרח אסיה.</strong>
         </p>
     </div>
 </div>
