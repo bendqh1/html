@@ -1,3 +1,16 @@
+## One tier
+
+```html
+<ul>
+    <li>
+        a
+    </li>
+</ul>
+```
+
+## Two tiers
+
+```html
 <ul>
     <li>
         a
@@ -8,3 +21,4 @@
         </li>
     </ul>
 </ul>
+```
